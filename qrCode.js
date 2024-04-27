@@ -12,3 +12,10 @@ http
   })
   .listen(5000);
 console.log("App running on http://localhost:5000");
+
+
+// Create a http server that takes user input as 
+// request and find a package that can convert user
+// input to currency
+
+//1USD => 133 NPR
